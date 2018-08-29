@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1522272859 source:e:\ds 2\ds assignment 2\assignment 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<math.h>
+
+1525260614 source:e:\data dis\assignment 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<math.h>
+
